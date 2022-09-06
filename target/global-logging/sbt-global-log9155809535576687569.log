@@ -1,0 +1,10 @@
+[debug] > Exec(~run, None, None)
+[debug] > Exec(__runWatch console0, None, None)
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(__preWatch console0, None, None)
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to E:\House_Rent_Scala\target\scala-2.11\classes ...
+[info] done compiling
+[info] shutting down sbt server

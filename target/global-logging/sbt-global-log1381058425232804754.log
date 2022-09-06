@@ -1,0 +1,21 @@
+[debug] > Exec(~run, None, None)
+[debug] > Exec(__runWatch console0, None, None)
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(__preWatch console0, None, None)
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to E:\House_Rent_Scala\target\scala-2.13\classes ...
+[error] E:\House_Rent_Scala\src\main\scala\example\Main.scala:2:12: object apache is not a member of package org
+[error] import org.apache.spark.sql.SparkSession
+[error]            ^
+[error] E:\House_Rent_Scala\src\main\scala\example\Main.scala:7:22: not found: value SparkSession
+[error]   val sparkSession = SparkSession.builder().appName("Read_CSV").master("local").getOrCreate()
+[error]                      ^
+[error] two errors found
+[error] (Compile / compileIncremental) Compilation failed
+[error] Total time: 0 s, completed Aug 25, 2022 12:10:57 PM
+[debug] > Exec(resumeFromFailure, None, None)
+[debug] > Exec(sbtPopOnFailure, None, None)
+[debug] > Exec(__postWatch console0, None, None)
+[debug] > Exec(__waitWatch console0, None, None)

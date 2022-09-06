@@ -1,0 +1,17 @@
+[debug] Packaging E:\House_Rent_Scala\target\scala-2.11\house_rent_scala_2.11-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	cars_multiple_linearR.csv
+[debug] 	  E:\House_Rent_Scala\target\scala-2.11\classes\cars_multiple_linearR.csv
+[debug] 	cars_multiple_linearR.csv~
+[debug] 	  E:\House_Rent_Scala\target\scala-2.11\classes\cars_multiple_linearR.csv~
+[debug] 	example
+[debug] 	  E:\House_Rent_Scala\target\scala-2.11\classes\example
+[debug] 	example\Main$.class
+[debug] 	  E:\House_Rent_Scala\target\scala-2.11\classes\example\Main$.class
+[debug] 	example\Main$delayedInit$body.class
+[debug] 	  E:\House_Rent_Scala\target\scala-2.11\classes\example\Main$delayedInit$body.class
+[debug] 	example\Main.class
+[debug] 	  E:\House_Rent_Scala\target\scala-2.11\classes\example\Main.class
+[debug] 	House_Rent_Dataset.csv
+[debug] 	  E:\House_Rent_Scala\target\scala-2.11\classes\House_Rent_Dataset.csv
+[debug] Done packaging.
